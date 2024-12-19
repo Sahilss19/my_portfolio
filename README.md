@@ -1,4 +1,4 @@
-![Protfolio Website](src/assets/main.png)
+![Protfolio Website](src/assets/Main.png)
 
 <div align="center">
 
